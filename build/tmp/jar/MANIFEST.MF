@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: chaosenchants
+Specification-Vendor: Arkonix
+Specification-Version: 1
+Implementation-Title: ChaosEnchantsForge
+Implementation-Version: 1.0.0
+Implementation-Vendor: Arkonix
+Implementation-Timestamp: 2026-06-17T19:14:00+0200
+
